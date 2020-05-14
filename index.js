@@ -6,3 +6,13 @@ function theBeatlesPlay(musicians, instruments) {
     array.push(`${musicians[0]} plays ${instrument[0]}`);
   }
 }// add solution here
+
+function iLoveTheBeatles(num) {
+  let num = [];
+  num = num + 1;
+  return "I love the beatles!"
+}
+do {
+  num.push(`"I love the beatles!"`);
+  while (num < 15);
+}
