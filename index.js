@@ -10,9 +10,9 @@ function theBeatlesPlay(musicians, instruments) {
 function iLoveTheBeatles(num) {
   let array = [];
   num = num + 1;
-  }
   do {
   array.push("I love the Beatles!");
   return array;
 }  while ( num < 15); {
-}
+  }
+}  
