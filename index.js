@@ -11,8 +11,9 @@ function iLoveTheBeatles(num) {
   let array = [];
   num = num + 1;
   return "I love the beatles!"
-}
-do {
+  }
+  do {
   array.push(`"I love the beatles!"`);
-  while (num < 15);
+}  while (num < 15); {
+  }
 }
