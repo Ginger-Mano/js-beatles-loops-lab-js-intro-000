@@ -4,6 +4,7 @@ function theBeatlesPlay(musicians, instruments) {
     console.log(`${musicians[i]} plays ${instruments[i]}`);
     array.push(`${musicians[i]} plays ${instruments[i]}`);
   }
+  return array
 }// add solution here
 
 function iLoveTheBeatles(num) {
