@@ -5,7 +5,13 @@ function theBeatlesPlay(musicians, instruments) {
     array.push(`${musicians[i]} plays ${instruments[i]}`);
   }
   return array
-}// add solution here
+}
+
+function johnLennonFacts(array) {
+  let num = 1;
+}  while (num < facts.length); {
+  console.log(array + "!!!")
+}
 
 function iLoveTheBeatles(num) {
   let array = [];
