@@ -12,6 +12,7 @@ function johnLennonFacts(array) {
   num = num + 1
   while (num < array.length); {
   console.log(array + "!!!");
+  }
 }
 
 function iLoveTheBeatles(num) {
