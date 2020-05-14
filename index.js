@@ -8,11 +8,11 @@ function theBeatlesPlay(musicians, instruments) {
 }// add solution here
 
 function iLoveTheBeatles(num) {
-  let num = [];
+  let array = [];
   num = num + 1;
   return "I love the beatles!"
 }
 do {
-  num.push(`"I love the beatles!"`);
+  array.push(`"I love the beatles!"`);
   while (num < 15);
 }
